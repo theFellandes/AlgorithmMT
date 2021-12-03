@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\bin\Debug\net5.0\AlgorithmMidterm.exe
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\bin\Debug\net5.0\AlgorithmMidterm.deps.json
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\bin\Debug\net5.0\AlgorithmMidterm.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\bin\Debug\net5.0\AlgorithmMidterm.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\bin\Debug\net5.0\AlgorithmMidterm.dll
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\bin\Debug\net5.0\ref\AlgorithmMidterm.dll
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\bin\Debug\net5.0\AlgorithmMidterm.pdb
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\obj\Debug\net5.0\AlgorithmMidterm.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\obj\Debug\net5.0\AlgorithmMidterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\obj\Debug\net5.0\AlgorithmMidterm.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\obj\Debug\net5.0\AlgorithmMidterm.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\obj\Debug\net5.0\AlgorithmMidterm.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\obj\Debug\net5.0\AlgorithmMidterm.dll
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\obj\Debug\net5.0\ref\AlgorithmMidterm.dll
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\obj\Debug\net5.0\AlgorithmMidterm.pdb
+C:\Users\Fellandes\RiderProjects\AlgorithmMT\AlgorithmMidterm\obj\Debug\net5.0\AlgorithmMidterm.genruntimeconfig.cache

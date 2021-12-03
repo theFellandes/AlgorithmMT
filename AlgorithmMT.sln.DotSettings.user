@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=607ed00d_002Db229_002D4f3b_002Db850_002D52124979a097/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="HeapSortTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B65975F0-2477-47AE-916C-2512A520C909::net5.0::UnitTest.Tests.BuildMaxHeapTestSlide&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B65975F0-2477-47AE-916C-2512A520C909::net5.0::UnitTest.Tests.HeapsortTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
